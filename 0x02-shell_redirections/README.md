@@ -1,1 +1,1 @@
-It is a good file that cuts iron without making a noise
+ a script that lists all the files with a .gif extension in the current directory and all its sub-directorie
